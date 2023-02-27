@@ -28,3 +28,7 @@
 
 * If you want to create a new branch for the repo, you can do this by using ```git checkout -b <branch_name>```.
 * To switch between branches remove the ```-b``` flag.
+
+# Version Control Providers
+
+* The main version control provider for the tech world is GitHub. However it is not the only option for version control. Some other options include GitLab, Bitbucket and Azure DevOps Server.
